@@ -1,3 +1,3 @@
 <?
-	$foo = TRUE;
+	$foo = FALSE;
 >?
