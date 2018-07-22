@@ -1,6 +1,7 @@
 sealed trait Language extends EnumEntry
 
 object Language {
+  var potato = "asdf"
 
   case object Javascript extends Language
 
