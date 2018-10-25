@@ -62,8 +62,6 @@ object Language {
 
   case object YAML extends Language
 
-  case object Dart extends Language
-
   case object Elm extends Language
 
   case object HTML extends Language
