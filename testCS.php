@@ -1,6 +1,6 @@
 <?php
 
-//#Patterns: WordPress_DB_PreparedSQL
+//#Patterns: WordPress_DB_PreparedSQLsadfasd
 
 //#Err: WordPress_DB_PreparedSQL
 $wpdb->query( "SELECT * FROM $wpdb->posts WHERE post_title LIKE '" . $_GET['title'] . "';" ); // Bad.
