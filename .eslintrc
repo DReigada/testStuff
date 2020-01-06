@@ -4,7 +4,7 @@
   ],
   "extends": [
     "plugin:security/recommended"
-  ]
+  ],
   "rules": {
     "sort-imports": ["error", {
       "ignoreCase": false,
